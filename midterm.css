@@ -1,0 +1,45 @@
+body{
+margin: 25px 150px 50px;
+
+}
+
+h1{
+	font-family: Playfair Display;
+	font-weight: 700;
+}
+h2{
+	font-family: Playfair Display
+	font-weight 400;
+}
+h3{
+	font-family: Source Sans Pro;
+}
+p{
+	font-family: Source Sans Pro;
+}
+
+
+.s1{
+
+}
+
+.s2{
+	float: left;
+	border: 2px solid #cccccc;
+	background: #f2f2f2;
+	line-height: 1.5;
+	padding: 20px;
+}
+
+.s3{
+	clear: both;
+	padding: 10px 0px 10px;
+}
+li{
+	margin-top: 0;
+}
+.s4{
+
+	column-count: 2;
+}
+
